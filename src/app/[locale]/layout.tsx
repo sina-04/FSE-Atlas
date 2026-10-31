@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import { localeSchema } from '@/data/schema';
 import { Providers } from '@/components/providers';
 import { Header } from '@/components/header';
+import { WelcomeMusic } from '@/components/welcome-music';
 import { Footer } from '@/components/common';
 import { dict } from '@/lib/messages';
 import { fontVariables } from '@/lib/fonts';
@@ -36,6 +37,7 @@ export default async function LocaleLayout({
       <body>
         <Providers locale={locale}>
           <Header locale={locale} />
+          <WelcomeMusic locale={locale} />
           <main id="main" tabIndex={-1}>
             {children}
           </main>

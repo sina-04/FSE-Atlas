@@ -138,5 +138,16 @@
   "resourceDocumentation": "Documentation",
   "searchLoading": "Preparing search…",
   "searchFailed": "The search index could not be loaded.",
-  "retry": "Try again"
+  "retry": "Try again",
+  "musicWelcome": "A welcome soundtrack",
+  "musicBlocked": "Press play to start your welcome soundtrack.",
+  "musicError": "The track could not be loaded. Try play again.",
+  "musicStarting": "Starting your welcome soundtrack…",
+  "musicPlaying": "Enjoy a little music as you explore.",
+  "musicPaused": "Music paused. Resume whenever you like.",
+  "musicEnded": "The track has ended. Play it again if you like.",
+  "musicPlay": "Play Adagio by Secret Garden",
+  "musicPause": "Pause welcome music",
+  "musicDismiss": "Stop and dismiss welcome music",
+  "musicVolume": "Welcome music volume"
 }

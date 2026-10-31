@@ -15,6 +15,7 @@ const types = {
   '.png': 'image/png',
   '.woff2': 'font/woff2',
   '.pdf': 'application/pdf',
+  '.mp3': 'audio/mpeg',
   '.xlsx': 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
 };
 http

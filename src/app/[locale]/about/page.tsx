@@ -55,8 +55,8 @@ export default async function About({ params }: { params: Promise<{ locale: Loca
       id: 'privacy',
       title: L('Privacy and accessibility', 'حریم خصوصی و دسترس‌پذیری'),
       body: L(
-        'Language and theme preferences are stored in your browser. Search uses a local, published index; no account, analytics or external search service is required. The interface supports keyboard use, reduced motion, Persian RTL and English LTR. Public learning resources retain their own copyright and access terms.',
-        'ترجیحات زبان و رنگ در مرورگر شما ذخیره می‌شوند. جست‌وجو از فهرست عمومی محلی استفاده می‌کند؛ حساب، تحلیل‌گر ردیابی و موتور جست‌وجوی بیرونی لازم نیست. رابط از صفحه‌کلید، کاهش حرکت، راست‌به‌چپ فارسی و چپ‌به‌راست انگلیسی پشتیبانی می‌کند. حقوق و شرایط دسترسی منابع آموزشی متعلق به ارائه‌دهنده است.',
+        'Language and theme preferences, plus the welcome-music encounter, are stored in your browser. Search uses a local, published index; no account, analytics or external search service is required. The interface supports keyboard use, reduced motion, Persian RTL and English LTR. Public learning resources retain their own copyright and access terms.',
+        'ترجیحات زبان و رنگ و وضعیت نخستین مواجهه با موسیقی در مرورگر شما ذخیره می‌شوند. جست‌وجو از فهرست عمومی محلی استفاده می‌کند؛ حساب، تحلیل‌گر ردیابی و موتور جست‌وجوی بیرونی لازم نیست. رابط از صفحه‌کلید، کاهش حرکت، راست‌به‌چپ فارسی و چپ‌به‌راست انگلیسی پشتیبانی می‌کند. حقوق و شرایط دسترسی منابع آموزشی متعلق به ارائه‌دهنده است.',
       ),
     },
   ];

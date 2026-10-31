@@ -2148,3 +2148,80 @@ html[dir='rtl'] .directional {
   padding: 3px 8px;
   border-radius: 4px;
 }
+
+.welcome-music {
+  position: fixed;
+  z-index: 40;
+  inset-inline-end: max(20px, env(safe-area-inset-right));
+  bottom: max(20px, env(safe-area-inset-bottom));
+  width: min(360px, calc(100% - 32px));
+  padding: 17px;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: var(--surface);
+  box-shadow: 0 12px 42px #00000018;
+}
+.music-heading {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.music-heading .icon-tile {
+  width: 40px;
+  height: 40px;
+  border-radius: 12px;
+}
+.music-track {
+  flex: 1;
+  min-width: 0;
+}
+.music-eyebrow {
+  color: var(--muted);
+  font-size: 0.67rem;
+  line-height: 1.6;
+}
+.music-title {
+  color: var(--foreground);
+  font-family: var(--font-manrope), sans-serif;
+  font-size: 0.78rem;
+  font-weight: 650;
+  line-height: 1.8;
+  text-align: start;
+  overflow-wrap: anywhere;
+}
+.music-title span {
+  color: var(--muted);
+}
+.music-status {
+  color: var(--muted);
+  font-size: 0.73rem;
+  line-height: 1.8;
+  margin-block: 12px;
+}
+.music-controls {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.music-volume {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex: 1;
+  min-width: 0;
+  color: var(--muted);
+}
+.music-volume input {
+  width: 100%;
+  min-width: 0;
+  min-height: 44px;
+  accent-color: var(--primary);
+  cursor: pointer;
+}
+@media (max-width: 520px) {
+  .welcome-music {
+    inset-inline-end: 16px;
+    bottom: max(16px, env(safe-area-inset-bottom));
+    padding: 14px;
+  }
+}

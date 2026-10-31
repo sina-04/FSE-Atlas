@@ -59,4 +59,8 @@ No unverified open positions are published. External resources in this edition a
 
 ## Assets
 
+The first visit attempts to play **Secret Garden — Adagio** from the MP3 supplied in the project. A compact bilingual player provides play/pause, volume and dismiss controls. Browsers that block audible autoplay show a Play button instead. The encounter is remembered in browser storage (`fse-atlas:welcome-music:v1`), so returning visits do not autoplay or download the track. Playback state survives client navigation and language switching. With storage disabled, the once-per-document guard still prevents repeated attempts.
+
+To test a first visit again, use a fresh browser context or remove only that storage key. The source MP3 remains untouched in the workspace; the website copy is `public/audio/secret-garden-adagio.mp3`. The supplied recording retains its original rights and is not covered by the repository’s MIT code license.
+
 Manrope and Vazirmatn are self-hosted through Fontsource under the SIL Open Font License; see `public/licenses/`. The SVG mark and illustrations were created for this project. The local UI/UX Pro Max authoring skill remains in the workspace and retains its upstream MIT license. External resources retain their providers’ copyright and access terms.
