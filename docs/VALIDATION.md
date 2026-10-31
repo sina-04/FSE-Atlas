@@ -36,4 +36,4 @@ GitHub Actions repeats validation, production build, export-link checks and Chro
 
 ## Welcome music update
 
-The first encounter attempts the supplied Secret Garden — Adagio MP3. Four additional browser tests cover successful and blocked autoplay, real MP3 decoding/playback, pause/volume/dismiss controls, language/navigation continuity, returning visits without audio downloads, restricted storage and late rejected playback promises. Autoplay blocking is handled with an explicit Play button. The full browser suite now contains 20 tests.
+The first encounter attempts the supplied Secret Garden — Adagio MP3. Four browser tests cover real automatic MP3 playback when permitted, no music panel or controls, language/navigation continuity, returning visits without audio downloads, and silent handling of blocked playback or restricted storage. Browser autoplay restrictions are respected without prompts or retries. The full browser suite now contains 20 tests.

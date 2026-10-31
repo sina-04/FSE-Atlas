@@ -37,7 +37,7 @@ export default async function LocaleLayout({
       <body>
         <Providers locale={locale}>
           <Header locale={locale} />
-          <WelcomeMusic locale={locale} />
+          <WelcomeMusic />
           <main id="main" tabIndex={-1}>
             {children}
           </main>
