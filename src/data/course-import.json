@@ -1,0 +1,499 @@
+[
+  {
+    "category": "general",
+    "fa": "اندیشه اسلامی ۱ (مبدأ و معاد)",
+    "en": "Islamic Thought I (Origin and Resurrection)",
+    "credits": 2,
+    "cells": "D2:F2"
+  },
+  {
+    "category": "general",
+    "fa": "اندیشه اسلامی ۲ (نبوت و امامت)",
+    "en": "Islamic Thought II (Prophethood and Imamate)",
+    "credits": 2,
+    "cells": "D3:F3"
+  },
+  {
+    "category": "general",
+    "fa": "اخلاق اسلامی (مبانی و مفاهیم)",
+    "en": "Islamic Ethics (Foundations and Concepts)",
+    "credits": 2,
+    "cells": "D4:F4"
+  },
+  {
+    "category": "general",
+    "fa": "انقلاب اسلامی ایران",
+    "en": "The Islamic Revolution of Iran",
+    "credits": 2,
+    "cells": "D5:F5"
+  },
+  {
+    "category": "general",
+    "fa": "تاریخ تحلیلی صدر اسلام",
+    "en": "Analytical History of Early Islam",
+    "credits": 2,
+    "cells": "D6:F6"
+  },
+  {
+    "category": "general",
+    "fa": "تفسیر موضوعی قرآن",
+    "en": "Thematic Interpretation of the Holy Quran",
+    "credits": 2,
+    "cells": "D7:F7"
+  },
+  {
+    "category": "general",
+    "fa": "دانش خانواده و جمعیت",
+    "en": "Family and Population Studies",
+    "credits": 2,
+    "cells": "D8:F8"
+  },
+  {
+    "category": "general",
+    "fa": "زبان فارسی",
+    "en": "Persian Language",
+    "credits": 3,
+    "cells": "D9:F9"
+  },
+  {
+    "category": "general",
+    "fa": "زبان انگلیسی",
+    "en": "English Language",
+    "credits": 3,
+    "cells": "D10:F10"
+  },
+  {
+    "category": "general",
+    "fa": "تربیت بدنی",
+    "en": "Physical Education",
+    "credits": 1,
+    "cells": "D11:F11"
+  },
+  {
+    "category": "general",
+    "fa": "ورزش ۱",
+    "en": "Sport I",
+    "credits": 1,
+    "cells": "D12:F12"
+  },
+  {
+    "category": "basic",
+    "fa": "آمار و احتمالات",
+    "en": "Statistics and Probability",
+    "credits": 3,
+    "cells": "D17:F17"
+  },
+  {
+    "category": "basic",
+    "fa": "بیوشیمی عمومی",
+    "en": "General Biochemistry",
+    "credits": 3,
+    "cells": "D18:F18"
+  },
+  {
+    "category": "basic",
+    "fa": "ریاضیات ۱",
+    "en": "Mathematics 1",
+    "credits": 3,
+    "cells": "D19:F19"
+  },
+  {
+    "category": "basic",
+    "fa": "ریاضیات ۲",
+    "en": "Mathematics 2",
+    "credits": 3,
+    "cells": "D20:F20"
+  },
+  {
+    "category": "basic",
+    "fa": "شیمی آلی",
+    "en": "Organic Chemistry",
+    "credits": 2,
+    "cells": "D21:F21"
+  },
+  {
+    "category": "basic",
+    "fa": "آزمایشگاه شیمی آلی",
+    "en": "Organic Chemistry Lab",
+    "credits": 1,
+    "cells": "D22:F22"
+  },
+  {
+    "category": "basic",
+    "fa": "شیمی تجزیه",
+    "en": "Analytical Chemistry",
+    "credits": 3,
+    "cells": "D23:F23"
+  },
+  {
+    "category": "basic",
+    "fa": "شیمی عمومی",
+    "en": "General Chemistry",
+    "credits": 3,
+    "cells": "D24:F24"
+  },
+  {
+    "category": "basic",
+    "fa": "فیزیک عمومی",
+    "en": "General Physics",
+    "credits": 2,
+    "cells": "D25:F25"
+  },
+  {
+    "category": "basic",
+    "fa": "آزمایشگاه فیزیک عمومی",
+    "en": "General Physics Laboratory",
+    "credits": 1,
+    "cells": "D26:F26"
+  },
+  {
+    "category": "basic",
+    "fa": "ژنتیک",
+    "en": "Genetics",
+    "credits": 3,
+    "cells": "D27:F27"
+  },
+  {
+    "category": "basic",
+    "fa": "میکروبیولوژی عمومی",
+    "en": "General Microbiology",
+    "credits": 3,
+    "cells": "D28:F28"
+  },
+  {
+    "category": "specialized",
+    "fa": "اقتصاد و مدیریت صنعتی",
+    "en": "Economics and Industrial Management",
+    "credits": 3,
+    "cells": "H2:J2"
+  },
+  {
+    "category": "specialized",
+    "fa": "طرح آزمایش‌های کشاورزی ۱",
+    "en": "Agricultural Experiments Design 1",
+    "credits": 3,
+    "cells": "H3:J3"
+  },
+  {
+    "category": "specialized",
+    "fa": "فناوری پس از برداشت",
+    "en": "Post Harvest Technology",
+    "credits": 3,
+    "cells": "H4:J4"
+  },
+  {
+    "category": "specialized",
+    "fa": "عملیات کارگاهی",
+    "en": "Practical Workshop",
+    "credits": 2,
+    "cells": "H5:J5"
+  },
+  {
+    "category": "specialized",
+    "fa": "میکروبیولوژی مواد غذایی ۱",
+    "en": "Food Microbiology 1",
+    "credits": 3,
+    "cells": "H6:J6"
+  },
+  {
+    "category": "specialized",
+    "fa": "میکروبیولوژی مواد غذایی ۲",
+    "en": "Food Microbiology 2",
+    "credits": 2,
+    "cells": "H7:J7"
+  },
+  {
+    "category": "specialized",
+    "fa": "شیمی مواد غذایی ۱",
+    "en": "Food Chemistry 1",
+    "credits": 3,
+    "cells": "H8:J8"
+  },
+  {
+    "category": "specialized",
+    "fa": "شیمی مواد غذایی ۲",
+    "en": "Food Chemistry 2",
+    "credits": 2,
+    "cells": "H9:J9"
+  },
+  {
+    "category": "specialized",
+    "fa": "اصول مهندسی صنایع غذایی ۱",
+    "en": "Principals of Food Engineering 1",
+    "credits": 3,
+    "cells": "H10:J10"
+  },
+  {
+    "category": "specialized",
+    "fa": "تجزیه مواد غذایی",
+    "en": "Food Analysis",
+    "credits": 3,
+    "cells": "H11:J11"
+  },
+  {
+    "category": "specialized",
+    "fa": "اصول نگهداری مواد غذایی",
+    "en": "The Principles of Food Preservation",
+    "credits": 3,
+    "cells": "H12:J12"
+  },
+  {
+    "category": "specialized",
+    "fa": "اصول مهندسی صنایع غذایی ۲",
+    "en": "Principals of Food Engineering 2",
+    "credits": 3,
+    "cells": "H13:J13"
+  },
+  {
+    "category": "specialized",
+    "fa": "تکنولوژی گوشت و شیلات",
+    "en": "Meat Technology and Sea Foods Processing",
+    "credits": 3,
+    "cells": "H14:J14"
+  },
+  {
+    "category": "specialized",
+    "fa": "تکنولوژی روغن",
+    "en": "Edible Oil Technology",
+    "credits": 3,
+    "cells": "H15:J15"
+  },
+  {
+    "category": "specialized",
+    "fa": "تکنولوژی غلات",
+    "en": "Cereal Technology",
+    "credits": 3,
+    "cells": "H16:J16"
+  },
+  {
+    "category": "specialized",
+    "fa": "تکنولوژی شیر و فرآورده‌ها",
+    "en": "Milk and Dairy Products Technology",
+    "credits": 3,
+    "cells": "H17:J17"
+  },
+  {
+    "category": "specialized",
+    "fa": "عملیات تکنولوژی شیر و فرآورده‌ها",
+    "en": "Milk and Dairy Products Technology Operations",
+    "credits": 1,
+    "cells": "H18:J18"
+  },
+  {
+    "category": "specialized",
+    "fa": "کنسرو سازی",
+    "en": "Canning of Food",
+    "credits": 3,
+    "cells": "H19:J19"
+  },
+  {
+    "category": "specialized",
+    "fa": "تکنولوژی قند",
+    "en": "Sugar Technology",
+    "credits": 3,
+    "cells": "H20:J20"
+  },
+  {
+    "category": "specialized",
+    "fa": "اصول بسته‌بندی مواد غذایی",
+    "en": "Fundamentals of Food Packaging",
+    "credits": 2,
+    "cells": "H21:J21"
+  },
+  {
+    "category": "specialized",
+    "fa": "صنایع آشامیدنی‌ها",
+    "en": "Beverages Technology",
+    "credits": 2,
+    "cells": "H22:J22"
+  },
+  {
+    "category": "specialized",
+    "fa": "عملیات واحد در مهندسی صنایع غذایی",
+    "en": "Unit Operations in Food Engineering",
+    "credits": 3,
+    "cells": "H23:J23"
+  },
+  {
+    "category": "specialized",
+    "fa": "اصول طراحی کارخانجات صنایع غذایی",
+    "en": "Food Plant Design",
+    "credits": 3,
+    "cells": "H24:J24"
+  },
+  {
+    "category": "specialized",
+    "fa": "تغذیه",
+    "en": "Nutrition",
+    "credits": 2,
+    "cells": "H25:J25"
+  },
+  {
+    "category": "specialized",
+    "fa": "کنترل کیفیت مواد غذایی",
+    "en": "Food Quality Control",
+    "credits": 3,
+    "cells": "H26:J26"
+  },
+  {
+    "category": "specialized",
+    "fa": "کاربرد رایانه در مهندسی صنایع غذایی",
+    "en": "Application of Compute Software in Food Engineering",
+    "credits": 3,
+    "cells": "H27:J27"
+  },
+  {
+    "category": "specialized",
+    "fa": "نقشه کشی صنعتی ۱",
+    "en": "Industrial Drawing 1",
+    "credits": 2,
+    "cells": "H28:J28"
+  },
+  {
+    "category": "elective",
+    "fa": "اصول فرآوری خشکبار",
+    "en": "Principals of Dried Food Processing",
+    "credits": 2,
+    "cells": "L2:N2"
+  },
+  {
+    "category": "elective",
+    "fa": "تصفیه آب و فاضلاب",
+    "en": "Water and Wastewater Treatment",
+    "credits": 2,
+    "cells": "L3:N3"
+  },
+  {
+    "category": "elective",
+    "fa": "برنامه‌نویسی رایانه",
+    "en": "Computer Programming",
+    "credits": 3,
+    "cells": "L4:N4"
+  },
+  {
+    "category": "elective",
+    "fa": "سردخانه و انبار",
+    "en": "Storage and Refrigeration",
+    "credits": 2,
+    "cells": "L5:N5"
+  },
+  {
+    "category": "elective",
+    "fa": "بهداشت و ایمنی مواد غذایی",
+    "en": "Food Plant Sanitation",
+    "credits": 2,
+    "cells": "L6:N6"
+  },
+  {
+    "category": "elective",
+    "fa": "صنایع تخمیری",
+    "en": "Fermentation Technology",
+    "credits": 2,
+    "cells": "L7:N7"
+  },
+  {
+    "category": "elective",
+    "fa": "شیمی فیزیک مواد غذایی",
+    "en": "Physical Chemistry of Food",
+    "credits": 2,
+    "cells": "L8:N8"
+  },
+  {
+    "category": "elective",
+    "fa": "غذاهای فرا‌سودمند",
+    "en": "Functional Foods",
+    "credits": 2,
+    "cells": "L9:N9"
+  },
+  {
+    "category": "elective",
+    "fa": "صنعتی‌سازی تولید محصولات غذایی سنتی ایران",
+    "en": "Industrialization of Iranian Indigenous Food Products",
+    "credits": 2,
+    "cells": "L10:N10"
+  },
+  {
+    "category": "elective",
+    "fa": "تغذیه درمانی",
+    "en": "Human Dietetics Therapy",
+    "credits": 2,
+    "cells": "L11:N11"
+  },
+  {
+    "category": "elective",
+    "fa": "زبان انگلیسی تخصصی",
+    "en": "English for Food Science",
+    "credits": 2,
+    "cells": "L12:N12"
+  },
+  {
+    "category": "elective",
+    "fa": "صنایع قنادی",
+    "en": "ConfectioneryTechnology",
+    "credits": 2,
+    "cells": "L13:N13"
+  },
+  {
+    "category": "elective",
+    "fa": "محیط زیست و کارخانجات صنایع غذایی",
+    "en": "Food Industry and the Environment",
+    "credits": 2,
+    "cells": "L14:N14"
+  },
+  {
+    "category": "elective",
+    "fa": "طراحی واحدهای عملیاتی در کارخانه",
+    "en": "Food Plant Unit Operation",
+    "credits": 2,
+    "cells": "L15:N15"
+  },
+  {
+    "category": "elective",
+    "fa": "فناوری بازیافت و تبدیل ضایعات کشاورزی و صنایع غذایی",
+    "en": "Waste Management and Recycling in Agriculture and Food Industry",
+    "credits": 3,
+    "cells": "L16:N16"
+  },
+  {
+    "category": "elective",
+    "fa": "سمینار",
+    "en": "Seminar",
+    "credits": 1,
+    "cells": "L17:N17"
+  },
+  {
+    "category": "elective",
+    "fa": "مدیریت منابع آب و انرژی در صنایع غذایی",
+    "en": "Management of Water and Energy Resources in Food Industry",
+    "credits": 3,
+    "cells": "L18:N18"
+  },
+  {
+    "category": "elective",
+    "fa": "غذاهای حلال",
+    "en": "Halal Foods",
+    "credits": 2,
+    "cells": "L19:N19"
+  },
+  {
+    "category": "elective",
+    "fa": "استاندارد سازی و کنترل تقلبات در صنایع غذایی",
+    "en": "Standardization and Control of Adulteration in Food Industry",
+    "credits": 3,
+    "cells": "L20:N20"
+  },
+  {
+    "category": "internship",
+    "fa": "کارورزی ۱",
+    "en": "Training 1",
+    "credits": 3,
+    "cells": "L25:N25"
+  },
+  {
+    "category": "internship",
+    "fa": "کارورزی ۲",
+    "en": "Training 2",
+    "credits": 3,
+    "cells": "L26:N26"
+  }
+]

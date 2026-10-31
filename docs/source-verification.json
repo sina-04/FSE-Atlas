@@ -1,0 +1,301 @@
+[
+  {
+    "url": "https://www.uni-hohenheim.de/en/food-science-and-technology-masters",
+    "summary": "The Master of Science (M.Sc.) program in Food Science and Technology prepares students to make food production processes more sustainable, close cycles, and integrate alternative raw material sources into diets for a healthier, more sustainable, and varied food supply.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "url": "https://www.uni-hohenheim.de/en/biotechnology-masters",
+    "summary": "Official name: Biotechnology\nDegree: Master of Science (M.Sc.)\n\nThis interdisciplinary, research-oriented program covers the properties, production processes, and applications of enzymes and microorganisms in the food, pharmaceutical, and chemical industries. Students gain expertise in biochemical methods, molecular biology, enzyme kinetics, mutagenesis, and handling food pathogens using modern laboratories and pilot plants.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "url": "https://www.wur.nl/en/education/master/masters-food-technology",
+    "summary": "The Master’s in Food Technology at Wageningen University & Research covers the science behind food production, processes, and innovation. Students acquire technological knowledge and practical skills to analyze food, solve technological problems, and develop innovative, sustainable food products through courses, a thesis, and an internship.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "url": "https://www.wur.nl/en/education/master/masters-food-safety",
+    "summary": "Wageningen University & Research offers a full-time, two-year English-taught Master's in Food Safety (MSc). The programme covers technical and legal aspects of food safety, food quality interaction, food safety management systems, and specialized tracks in Applied Food Safety, Food Law, and Supply Chain Safety.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "url": "https://www.uoguelph.ca/oac/food-science/graduate",
+    "summary": "The Department of Food Science offers course-based and research-based graduate programs, including the MSc in Food Safety and Quality Assurance, MSc in Food Science, and PhD in Food Science, focusing on food safety, preservation, dairy science, functional foods, and innovative sustainable food development.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-food-science",
+    "summary": "Master of Science in Food Science (MSc) covers advanced study and research in food chemistry, biochemistry, process science, microbiology, safety and toxicology, biotechnology, quality evaluation, and wine biotechnology, ensuring a safe, nutritious, sustainable, and high-quality food supply on a global scale.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "url": "https://ilb.uni-hohenheim.de/en/129041",
+    "summary": "The department of Food Material Science offers analytical laboratories and pilot plants for food processing, specializing in material science, structural analysis, and meat technology. Research focuses on creating complex food structures and integrating biologically and physiologically active compounds into food matrices.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "url": "https://ilb.uni-hohenheim.de/en/homepage",
+    "summary": "The Institute of Food Science and Biotechnology covers Bachelor's, Master's, and Doctoral Studies, news including conferences and colloquia, areas of research and projects, and the institute's twelve departments.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "url": "https://www.wur.nl/en/chair-groups/food-sciences-and-technology/food-chemistry",
+    "summary": "Led by Jean-Paul Vincken, the Food Chemistry Group conducts research and education using analytical and chemical expertise to establish structure-function relationships of food molecules and predictive models. Their work focuses on food proteins, phytochemicals, plant antimicrobials, food lipids, flavour chemistry, carbohydrates, biomass, and enzymology.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "url": "https://www.wur.nl/en/chair-groups/food-sciences-and-technology/food-microbiology",
+    "summary": "The Food Microbiology Group aims to predict and explain microbial behaviour in food, studying fermentation, spoilage, and foodborne diseases. Research themes include food fermentation, quantitative risk assessment, quantitative ecology of pathogens, and physiology and genomics. The group contributes to various bachelor and master programmes.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "url": "https://www.uoguelph.ca/oac/food-science",
+    "summary": "The University of Guelph Department of Food Science applies chemistry, physics, and microbiology to food processing and product development. It covers undergraduate and graduate programs (including MSc in Food Science), a Food Science Certificate, and continuing education short courses on food safety, production, and science.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "url": "https://www.landfood.ubc.ca/research/research-centres-groups/food-science-group/",
+    "summary": "The Food Science program focuses on biochemistry, microbiology, safety, processing, engineering, and biotechnology of food systems. Research ensures food security locally, nationally, and internationally by improving availability, wholesomeness, safety, and nutritional quality. Graduates fill industry, government, and academic roles.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "url": "https://www.make-it-in-germany.com/en/visa-residence/types/studying",
+    "summary": "This guide provides orientation on the requirements and procedural steps involved in obtaining a visa to study in Germany or to seek a place in higher education, covering admission conditions, financial proof, working limits, and post-graduation residence permit options.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "url": "https://ind.nl/en/residence-permits/study/student-residence-permit-for-university-or-higher-professional-education",
+    "summary": "This government guidance covers obtaining a student residence permit in the Netherlands for university or higher professional education. It explains requirements and how educational institutions can apply for the permit on behalf of students based on their nationality and previous permit history.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html",
+    "summary": "The study permit is a document issued that allows foreign nationals to study at designated learning institutions in Canada. Most foreign nationals need a study permit to study in Canada. You should apply before you travel to Canada.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "fda-bam",
+    "title": "FDA Bacteriological Analytical Manual",
+    "url": "https://www.fda.gov/food/laboratory-methods-food/bacteriological-analytical-manual-bam",
+    "summary": "FDA's Bacteriological Analytical Manual (BAM) presents preferred laboratory procedures for microbiological analyses of foods and cosmetics.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "bad-bug-book",
+    "title": "FDA Bad Bug Book",
+    "url": "https://www.fda.gov/food/foodborne-pathogens/bad-bug-book-second-edition",
+    "summary": "Current information about major known agents causing foodborne illness, including pathogens and natural toxins contaminating food.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "food-code",
+    "title": "FDA Food Code",
+    "url": "https://www.fda.gov/food/retail-food-protection/fda-food-code",
+    "summary": "The U.S. Food and Drug Administration (FDA) has issued the 2026 edition of the FDA Food Code.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "haccp",
+    "title": "FDA HACCP principles",
+    "url": "https://www.fda.gov/food/hazard-analysis-critical-control-point-haccp/haccp-principles-application-guidelines",
+    "summary": "HACCP principles and application guidelines for identifying, evaluating, and controlling food safety hazards.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "codex",
+    "title": "Codex Alimentarius",
+    "url": "https://www.fao.org/fao-who-codexalimentarius/en/",
+    "summary": "The provided page contains no educational content.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "five-keys",
+    "title": "WHO Five Keys to Safer Food",
+    "url": "https://www.who.int/publications/i/item/9789241594639",
+    "summary": "The core messages of the Five Keys to Safer Food are keep clean, separate raw and cooked, cook thoroughly, and use safe water.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "fooddata",
+    "title": "USDA FoodData Central",
+    "url": "https://fdc.nal.usda.gov/",
+    "summary": "USDA's comprehensive source of food composition data with multiple distinct data types, including analytical data, historical data, survey data, and branded food products.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "iso22000",
+    "title": "ISO 22000 food safety management",
+    "url": "https://www.iso.org/iso-22000-food-safety-management.html",
+    "summary": "ISO 22000 food safety management standards, requirements, practical guides, handbooks, and brochures for organizations in the food chain.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "efsa",
+    "title": "EFSA food safety science",
+    "url": "https://www.efsa.europa.eu/en",
+    "summary": "New free online training on general aspects, novel foods, and food additives to support dossier preparation.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "food-contact",
+    "title": "EFSA food contact materials",
+    "url": "https://www.efsa.europa.eu/en/topics/topic/food-contact-materials",
+    "summary": "Food contact materials (FCMs) and their safety assessments by EFSA scientists regarding possible health risks from chemical transfers.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "nist",
+    "title": "NIST Engineering Statistics Handbook",
+    "url": "https://www.itl.nist.gov/div898/handbook/",
+    "summary": "NIST/SEMATECH e-Handbook of Statistical Methods",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "doe",
+    "title": "NIST design of experiments",
+    "url": "https://www.itl.nist.gov/div898/handbook/pri/pri.htm",
+    "summary": "Process Improvement: Introduction, Assumptions, Choosing an Experimental Design, Analysis of DOE Data, Advanced Topics, Case Studies, Glossary, and References.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "chemistry",
+    "title": "OpenStax Chemistry 2e",
+    "url": "https://openstax.org/details/books/chemistry-2e",
+    "summary": "Chemistry 2e is designed to meet the scope and sequence requirements of the two-semester general chemistry course.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "biology",
+    "title": "OpenStax Biology 2e",
+    "url": "https://openstax.org/details/books/biology-2e",
+    "summary": "Biology 2e covers scope and sequence requirements of a typical two-semester biology course for science majors through an evolutionary lens.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "microbiology",
+    "title": "OpenStax Microbiology",
+    "url": "https://openstax.org/details/books/microbiology",
+    "summary": "Microbiology covers scope and sequence requirements for a single-semester microbiology course for non-majors, focusing on allied health career applications.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "physics",
+    "title": "OpenStax University Physics Volume 2",
+    "url": "https://openstax.org/details/books/university-physics-volume-2",
+    "summary": "University Physics Volume 2 covers thermodynamics, electricity and magnetism for calculus-based physics courses, emphasizing theory, application, and problem-solving.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "python",
+    "title": "Python tutorial",
+    "url": "https://docs.python.org/3/tutorial/",
+    "summary": "An informal introduction to basic concepts and features of the Python language and system for new programmers.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "r",
+    "title": "An Introduction to R",
+    "url": "https://cran.r-project.org/doc/manuals/r-release/R-intro.html",
+    "summary": "R (“GNU S”), a language and environment for statistical computing and graphics.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "pandas",
+    "title": "pandas getting started",
+    "url": "https://pandas.pydata.org/docs/getting_started/index.html",
+    "summary": "Introductory tutorials and guides for the pandas library, covering installation, data manipulation, plotting, statistics, time series, and comparisons with other software.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "carpentries",
+    "title": "Programming with Python",
+    "url": "https://swcarpentry.github.io/python-novice-inflammation/",
+    "summary": "An introduction to Python programming built around a common scientific task: data analysis of arthritis inflammation clinical trial data.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "mit-heat",
+    "title": "MIT heat and mass transfer",
+    "url": "https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/",
+    "summary": "MIT advanced undergraduate heat and mass transfer course.",
+    "checked": "2026-10-31",
+    "success": true,
+    "previousUrl": "https://ocw.mit.edu/courses/2-51-intermediate-heat-and-mass-transfer-fall-2011/",
+    "method": "Official-site search result; previous location returned an error."
+  },
+  {
+    "id": "mit-thermo",
+    "title": "MIT thermodynamics",
+    "url": "https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/",
+    "summary": "This subject deals primarily with equilibrium properties of macroscopic systems, basic thermodynamics, chemical equilibrium, and rates of chemical reactions.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "id": "ift",
+    "title": "IFT Food Facts",
+    "url": "https://www.ift.org/advance-your-career/find-a-job/careers-in-the-science-of-food",
+    "summary": "IFT professional overview of food science disciplines and careers.",
+    "checked": "2026-10-31",
+    "success": true,
+    "previousUrl": "https://www.ift.org/career-development/learn-about-food-science/food-facts",
+    "method": "Official-site search result; previous location returned an error."
+  },
+  {
+    "id": "fao-loss",
+    "title": "FAO food loss and waste",
+    "url": "https://www.fao.org/platform-food-loss-waste/en/",
+    "summary": "Resources, guidelines, databases, and publications on measuring and reducing food loss and waste to improve food security and sustainability.",
+    "checked": "2026-10-31",
+    "success": true
+  },
+  {
+    "url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-food-science",
+    "summary": "Doctor of Philosophy in Food Science (PhD).",
+    "checked": "2026-11-01",
+    "success": true
+  },
+  {
+    "url": "https://www.uoguelph.ca/programs/phd-food-science-thesisresearch",
+    "summary": "PhD in Food Science (Thesis/Research).",
+    "checked": "2026-11-01",
+    "success": true,
+    "method": "Official-site search result"
+  }
+]
