@@ -2,7 +2,7 @@ import http from 'node:http';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 const root = path.resolve('out');
-const prefix = process.env.NEXT_PUBLIC_BASE_PATH || '/fse-atlas';
+const prefix = process.env.NEXT_PUBLIC_BASE_PATH || '/FSE-Atlas';
 const port = Number(process.env.PORT || 4173);
 const types = {
   '.html': 'text/html; charset=utf-8',

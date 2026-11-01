@@ -2148,3 +2148,19 @@ html[dir='rtl'] .directional {
   padding: 3px 8px;
   border-radius: 4px;
 }
+
+.music-toggle {
+  position: fixed;
+  z-index: 40;
+  inset-inline-end: max(16px, env(safe-area-inset-right));
+  bottom: max(16px, env(safe-area-inset-bottom));
+  width: 44px;
+  height: 44px;
+  min-height: 44px;
+  padding: 0;
+  border-radius: 50%;
+  box-shadow: 0 3px 14px #00000024;
+}
+html[dir='rtl'] .music-toggle {
+  inset-inline-end: max(16px, env(safe-area-inset-left));
+}

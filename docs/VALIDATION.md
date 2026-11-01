@@ -7,7 +7,7 @@ Local validation completed on 1 November 2026 using Node.js 24.21.0 on Windows a
 - Strict TypeScript and ESLint.
 - Six unit tests: Persian/Arabic normalization, combined filters, locale URLs, date/number formatting, position expiry, and curriculum/source reconciliation.
 - Content validation: 175 bilingual entities, 1,246 explicit relationships, unique routes/IDs, translation keys, prerequisite cycles, source references and the 140-credit requirement.
-- Production static export: 380 exported HTML files checked for valid internal routes and asset links beneath `/fse-atlas/`.
+- Production static export: 380 exported HTML files checked for valid internal routes and asset links beneath `/FSE-Atlas/`.
 - Twenty Playwright tests: both locales/themes, direct deep links and refresh, global search, country/degree/resource filters, language-state preservation, root preference, keyboard/mobile dialogs, focus restoration, 200% text scaling and the bilingual 404.
 - Theme tests verify the measured circular-reveal origin, farthest-corner radius, 650 ms duration, persistence, system preference, reduced motion, rapid clicks and unsupported-API fallback.
 - Overflow checks cover 320, 360, 375, 390, 430, 600, 768, 1024, 1280, 1440, 1920 and 2560 px in both languages.
@@ -36,4 +36,4 @@ GitHub Actions repeats validation, production build, export-link checks and Chro
 
 ## Welcome music update
 
-The first encounter attempts the supplied Secret Garden — Adagio MP3. Four browser tests cover real automatic MP3 playback when permitted, no music panel or controls, language/navigation continuity, returning visits without audio downloads, and silent handling of blocked playback or restricted storage. Browser autoplay restrictions are respected without prompts or retries. The full browser suite now contains 20 tests.
+The first encounter attempts the supplied Secret Garden — Adagio MP3. Four browser tests cover real automatic MP3 playback when permitted, the compact play/pause button, language/navigation continuity, returning visits without audio downloads, and silent handling of blocked playback or restricted storage. The button supports keyboard use and both languages/themes, preserves playback position across pause/resume, and remains fixed while scrolling. Browser autoplay restrictions are respected with manual playback available. The full browser suite now contains 20 tests.

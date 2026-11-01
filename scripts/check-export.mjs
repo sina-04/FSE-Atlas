@@ -1,7 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 const root = path.resolve('out'),
-  prefix = process.env.NEXT_PUBLIC_BASE_PATH || '/fse-atlas';
+  prefix = process.env.NEXT_PUBLIC_BASE_PATH || '/FSE-Atlas';
 let pages = 0;
 const broken = new Set();
 async function exists(file) {

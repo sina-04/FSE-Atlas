@@ -1,12 +1,12 @@
 import { test, expect } from '@playwright/test';
 test('graduate degree and resource filters are reflected in the URL', async ({ page }) => {
-  await page.goto('/fse-atlas/en/programs/');
+  await page.goto('/FSE-Atlas/en/programs/');
   await page.getByRole('combobox', { name: 'Degree', exact: true }).selectOption('PhD');
   await expect(page.locator('.directory .entity-card')).toHaveCount(2);
   await expect(page).toHaveURL(/level=PhD/);
   await page.reload();
   await expect(page.locator('.directory .entity-card')).toHaveCount(2);
-  await page.goto('/fse-atlas/en/resources/');
+  await page.goto('/FSE-Atlas/en/resources/');
   await page.getByRole('combobox', { name: 'Format', exact: true }).selectOption('course');
   await expect(page.locator('.directory .entity-card')).toHaveCount(3);
   await page.getByRole('button', { name: 'Clear filters' }).click();
@@ -31,7 +31,7 @@ test('theme reveal originates at the control and reaches the viewport corners', 
       return original.call(this, keyframes, options);
     };
   });
-  await page.goto('/fse-atlas/en/');
+  await page.goto('/FSE-Atlas/en/');
   await page.evaluate(() => document.fonts.ready);
   const box = await page.getByTestId('theme-toggle').boundingBox();
   expect(box).not.toBeNull();

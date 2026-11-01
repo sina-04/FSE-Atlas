@@ -13,8 +13,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      NEXT_PUBLIC_BASE_PATH: /fse-atlas
-      NEXT_PUBLIC_SITE_URL: https://sina-04.github.io/fse-atlas
+      NEXT_PUBLIC_BASE_PATH: /FSE-Atlas
+      NEXT_PUBLIC_SITE_URL: https://sina-04.github.io/FSE-Atlas
       NEXT_TELEMETRY_DISABLED: 1
     steps:
       - uses: actions/checkout@v4

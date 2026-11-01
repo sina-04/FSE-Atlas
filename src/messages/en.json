@@ -138,5 +138,7 @@
   "resourceDocumentation": "Documentation",
   "searchLoading": "Preparing search…",
   "searchFailed": "The search index could not be loaded.",
-  "retry": "Try again"
+  "retry": "Try again",
+  "musicPlay": "Play welcome music",
+  "musicPause": "Pause welcome music"
 }

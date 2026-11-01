@@ -2,8 +2,8 @@
 
 A bilingual Persian/English guide connecting Food Science and Engineering education with skills, careers, research and international study.
 
-Website: https://sina-04.github.io/fse-atlas/  
-Repository: https://github.com/sina-04/fse-atlas
+Website: https://sina-04.github.io/FSE-Atlas/
+Repository: https://github.com/sina-04/FSE-Atlas
 
 ## Develop
 
@@ -25,15 +25,15 @@ npm run check
 This runs strict TypeScript, ESLint, content/relationship validation and unit tests. To build the GitHub Pages export in PowerShell:
 
 ```powershell
-$env:NEXT_PUBLIC_BASE_PATH='/fse-atlas'
-$env:NEXT_PUBLIC_SITE_URL='https://sina-04.github.io/fse-atlas'
+$env:NEXT_PUBLIC_BASE_PATH='/FSE-Atlas'
+$env:NEXT_PUBLIC_SITE_URL='https://sina-04.github.io/FSE-Atlas'
 npm run build
 npm run preview
 ```
 
-For Bash, prefix the build command with `NEXT_PUBLIC_BASE_PATH=/fse-atlas NEXT_PUBLIC_SITE_URL=https://sina-04.github.io/fse-atlas`.
+For Bash, prefix the build command with `NEXT_PUBLIC_BASE_PATH=/FSE-Atlas NEXT_PUBLIC_SITE_URL=https://sina-04.github.io/FSE-Atlas`.
 
-Preview: http://127.0.0.1:4173/fse-atlas/. The server serves actual exported files with real 404 responses and no SPA fallback.
+Preview: http://127.0.0.1:4173/FSE-Atlas/. The server serves actual exported files with real 404 responses and no SPA fallback.
 
 ```sh
 npm run test:e2e
@@ -59,7 +59,7 @@ No unverified open positions are published. External resources in this edition a
 
 ## Assets
 
-The first visit attempts to play **Secret Garden — Adagio** from the MP3 supplied in the project. It plays once in the background at 35% volume, without a panel, buttons or settings. If the browser blocks audible autoplay, the site stays silent; no prompt or automatic retry is shown. The encounter is remembered in browser storage (`fse-atlas:welcome-music:v1`), so returning visits do not autoplay or download the track. Playback state survives client navigation and language switching. With storage disabled, the once-per-document guard still prevents repeated attempts.
+The first visit attempts to play **Secret Garden — Adagio** from the MP3 supplied in the project. It plays once in the background at 35% volume. A single 44 px circular play/pause button stays at the bottom corner while scrolling, without a panel or settings. If the browser blocks audible autoplay, the button offers manual playback without interrupting the page. The encounter is remembered in browser storage (`fse-atlas:welcome-music:v1`), so returning visits do not autoplay or download the track until the play button is used. Playback state survives client navigation and language switching. With storage disabled, the once-per-document guard still prevents repeated attempts.
 
 To test a first visit again, use a fresh browser context or remove only that storage key. The source MP3 remains untouched in the workspace; the website copy is `public/audio/secret-garden-adagio.mp3`. The supplied recording retains its original rights and is not covered by the repository’s MIT code license.
 

@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
-const prefix = '/fse-atlas';
+const prefix = '/FSE-Atlas';
 test('root defaults to Persian and remembers an explicit English choice', async ({ page }) => {
   await page.goto(`${prefix}/`);
   await expect(page).toHaveURL(/\/fa\/$/);
@@ -60,7 +60,7 @@ test('direct deep links, roadmap and source links work without fallback routing'
   await expect(page.getByRole('heading', { level: 1 })).toBeVisible();
   await expect(page.locator('.source-panel a').first()).toHaveAttribute(
     'href',
-    /\/fse-atlas\/references\/ut-fse-2017.pdf#page=7/,
+    /\/FSE-Atlas\/references\/ut-fse-2017.pdf#page=7/,
   );
   const missing = await page.goto(`${prefix}/en/not-a-real-route/`);
   expect(missing?.status()).toBe(404);

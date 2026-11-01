@@ -5,7 +5,7 @@ export const cn = (...inputs: ClassValue[]) => twMerge(clsx(inputs));
 export const tr = (value: Localized, locale: Locale) => value[locale];
 export const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
 export const siteUrl =
-  process.env.NEXT_PUBLIC_SITE_URL || 'https://sina-04.github.io/fse-atlas';
+  process.env.NEXT_PUBLIC_SITE_URL || 'https://sina-04.github.io/FSE-Atlas';
 export const asset = (path: string) => (path.startsWith('/') ? `${basePath}${path}` : path);
 export function normalize(text: string) {
   return text
